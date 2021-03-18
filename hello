@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+# ruby in shell script
+
+puts "Hello, World!", "how's it going?"
+
+
+# bash terminal
+# $ touch hello
+# $ which ruby  ## will give you back ruby path, but it doesn't work
+#               ## so instead use /usr/bin/env ruby
+# $ chmod +x hello
+# ./hello

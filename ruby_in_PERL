@@ -1,0 +1,12 @@
+# Ruby in PERL
+# $ irb
+# >> puts "Hello World"
+#
+# open editor
+# 1. $ vim ~/.irbrc
+# 2. press i
+# 3. copy and paste these
+#     IRB.conf[:PROMPT_MODE] = :SIMPLE
+#     IRB.conf[:AUTO_INDENT_MODE] = false
+# 4. :wq
+# then you are ready to go for PERL
